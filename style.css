@@ -1,0 +1,21 @@
+body {
+    background-color: #333;
+}
+
+/* main {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+canvas {
+    min-width: 100%;
+    min-height: 100%;
+} */
+
+.mctrl {
+    min-width: 90%;
+    margin-left: 5%;
+    accent-color: purple;
+    outline-color: blue;
+    
+}
